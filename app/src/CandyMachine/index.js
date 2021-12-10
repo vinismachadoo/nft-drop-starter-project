@@ -348,7 +348,7 @@ const CandyMachine = ({ walletAddress }) => {
 
   useEffect(() => {
     getCandyMachineState();
-  }, []);
+  });
 
   const renderMintedItems = () => (
     <div className="gif-container">
