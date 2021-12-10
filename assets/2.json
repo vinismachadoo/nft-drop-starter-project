@@ -1,0 +1,23 @@
+{
+  "name": "South Africa",
+  "symbol": "",
+  "image": "2.png",
+  "collection": {
+    "name": "South Africa",
+    "family": "Flags Test"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "6ZHEy7vzvKeDGQXgy4DSNJ1NVmYs9uhTJBFQn4WcW4s8",
+        "share": 100
+      }
+    ]
+  }
+}
